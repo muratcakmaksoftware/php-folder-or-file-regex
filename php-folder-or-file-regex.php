@@ -1,6 +1,6 @@
 <?php
 /**
- * If folderName have this characters \,/,:,*,?,",<,>,| return false but if not return true.
+ * If fileName have this characters \,/,:,*,?,",<,>,| return false but if not return true.
  * @param $fileName
  * @return string
  */
